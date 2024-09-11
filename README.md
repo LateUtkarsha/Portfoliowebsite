@@ -11,6 +11,9 @@ This portfolio is built using:
 - **CSS**: For styling and creating a responsive design.
 - **JavaScript**: To add interactivity and dynamic features.
 
+## 📷 Some SnapShots
+
+
 ## 🎯 Features
 
 - **Responsive Design**: Works seamlessly across all devices (desktop, tablet, mobile).
