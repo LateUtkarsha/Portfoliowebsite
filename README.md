@@ -11,9 +11,6 @@ This portfolio is built using:
 - **CSS**: For styling and creating a responsive design.
 - **JavaScript**: To add interactivity and dynamic features.
 
-## 📷 Some SnapShots
-
-
 ## 🎯 Features
 
 - **Responsive Design**: Works seamlessly across all devices (desktop, tablet, mobile).
@@ -41,7 +38,7 @@ To run this project locally, follow these steps:
 2. Open `index.html` in your browser.
 
 
-## ScreenShots
+## 📷 Some SnapShots
 - ![Image](https://github.com/user-attachments/assets/ee65b19d-f3fb-413d-a7da-19857b6452d5)
 ![Image](https://github.com/user-attachments/assets/8a95a0f1-723e-44e8-b50a-fb7619cae985)
 ![Image](https://github.com/user-attachments/assets/2f8226e3-dc32-47ca-86c1-5deb160831d2)
