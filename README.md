@@ -40,6 +40,10 @@ To run this project locally, follow these steps:
     ```
 2. Open `index.html` in your browser.
 
+
+## ScreenShots
+-
+
 ## 🤝 Contributing
 
 Feel free to contribute by submitting issues or pull requests.
